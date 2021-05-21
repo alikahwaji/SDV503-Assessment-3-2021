@@ -59,7 +59,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 ## :books: Resources 
 
 |[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EQA9WEUtU_tDjaWlLF2BXskB0IBgxezrPwWMz2Oa-ylhXQ?e=RuGVXH)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
-|---|---|---|---|---|
+|---|---|---|---|
 
 
 
