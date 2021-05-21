@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [SDV503teams](https://teams.microsoft.com/l/team/19%3a03af48710582456a98f78b1775b758f9%40thread.tacv2/conversations?groupId=7ef1ff40-387a-4070-b43e-694b2e4bfd01&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [SDV503teams](https://teams.microsoft.com/l/channel/19%3ad8a4aa8ce3c34cef88897aa8955767f3%40thread.tacv2/General?groupId=fc1c6d2c-7a94-4fe4-b9c8-a930f6d56956&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](Ali.Kahwaji@nmit.ac.nz)
 
 
@@ -36,21 +36,21 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:-:|---|---|
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
-|:three:|You must write comments explaining each line in your code, use the index.js file provided in the repo :flashlight:|:ballot_box_with_check:|
-|:four:|Copy the repo's Http url and paste it to your lab dropbox on moodle :inbox_tray:|:ballot_box_with_check:|
-|:five:|Write your assessment reflection using the journal.txt file provided in the repo :pencil:|:ballot_box_with_check:|
+|:three:|You must write comments explaining each line in your code. :flashlight:|:ballot_box_with_check:|
+|:four:|Copy the repo's Http url and paste it to your assessment dropbox on moodle with the zip folder :inbox_tray:|:ballot_box_with_check:|
+|:five:|No reflection Needed for this assessment :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
 |:-:|---|---|
-|:one:|Do NOT fork the lab repo :trident:|:heavy_multiplication_x:|
+|:one:|Do NOT fork the assessment repo :trident:|:heavy_multiplication_x:|
 |:two:|Do NOT share your code :lock_with_ink_pen:|:heavy_multiplication_x:|
 |:three:|Do NOT commit your code without a message :incoming_envelope:|:heavy_multiplication_x:|
-|:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
+|:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
 ## :page_facing_up: Assessment Three Description
 
-:arrow_right: Assessment Two Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
+:arrow_right: Assessment Assessment Outline is provided in this README file, SDV503 Moodle and SDV503 MS teams. Follow the Assessment 
               outline timeline and marking rubric
 
 
@@ -58,7 +58,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :books: Resources 
 
-|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[W3schools](https://www.w3schools.com/js/default.asp)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://drive.google.com/file/d/1_FnJ21DEJz6mZOqlOW6J5E2BdEmA6ysf/view?usp=sharing)|[JS Data Structure & Algorithms](https://github.com/trekhleb/javascript-algorithms)|
+|[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|[JavaScript Eloquent](https://eloquentjavascript.net/)|[Assessment Three Outline](https://livenmitac-my.sharepoint.com/:b:/g/personal/ali_kahwaji_nmit_ac_nz/EQA9WEUtU_tDjaWlLF2BXskB0IBgxezrPwWMz2Oa-ylhXQ?e=RuGVXH)|[C# programming guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)|
 |---|---|---|---|---|
 
 
